@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background: #fffbe7;
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 5px blue;
+    text-align: center;
+}
+
+.main p {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.main button{
+    background: black;
+    color: #fff;
+    border: none;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+   
+}
+strong{
+    color: blue;
+}
+
