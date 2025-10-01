@@ -14,4 +14,4 @@
 
 ## Display Output
 
-![Day 1: Simple Calculator Task 2](https://github.com/user-attachments/assets/2263856b-0b89-44bb-a058-380b47d27d21)
+![Day 1: Simple Calculator Task 2](https://github.com/user-attachments/assets/ff8b258a-cf58-4837-a217-1d69419376b1)
